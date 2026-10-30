@@ -1,8 +1,4 @@
-<h1 align="center">Hola, soy Jeremias Reinoso 👋</h1>
-
-<p align="center">
-  <img src="https://github.com/JeremiasReinoso.png" width="180" height="180" alt="Jeremias Reinoso" />
-</p>
+<h1 align="center">Hola, soy Jeremias Reinoso </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Desarrollador+Web;Software+de+escritorio;Apps+para+celular;Siempre+aprendiendo" alt="Typing SVG" />
