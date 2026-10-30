@@ -43,8 +43,4 @@
 <h3>Contacto</h3>
 
 - LinkedIn: [Jeremias Reinoso](https://www.linkedin.com/in/jeremias-reinoso-9992452a9/)
-- GitHub: [@JeremiasReinoso](https://github.com/JeremiasReinoso)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JeremiasReinoso&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
